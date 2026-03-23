@@ -46,8 +46,9 @@ You can stop all collection of information by the Application easily by uninstal
 
 The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at info@pointvibe.app and they will respond in a reasonable time.
 
-**Account Deletion**                                                                                                                                                                                      
-To request account deletion, email us at info@poiintvibe.app                                                                                                         We will delete your account and associated data within 30 days.
+**Account Deletion**
+
+To request account deletion, email us at info@poiintvibe.app. We will delete your account and associated data within 30 days.
 
 **Children**
 
