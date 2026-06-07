@@ -52,7 +52,7 @@ Either party may terminate as described in your plan. Upon termination, your rig
 
 **13. Governing Law**
 
-These Terms are governed by the laws of [State / Country], without regard to its conflict-of-laws rules. Disputes will be resolved in the courts located in [Venue].
+These Terms are governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein, without regard to its conflict-of-laws rules. The parties submit to the exclusive jurisdiction of the courts located in Ontario, Canada.
 
 **14. Changes**
 
