@@ -23,6 +23,16 @@ The Service Provider may use the information you provided to contact you from ti
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Email, Phone number, Birth Date, Location, Name. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
+**Merchant Platform and Connected Integrations**
+
+PointVibe also provides a platform that merchants use to run loyalty programs and issue Apple Wallet and Google Wallet passes to their customers. When a merchant connects a third-party service, PointVibe accesses only the data the merchant authorizes, using read-only permissions where applicable:
+
+*   **Point-of-Sale (Square, Clover):** PointVibe reads payment records (such as amount, time, and store/location) and limited customer references (such as a customer identifier or email associated with a sale) solely to calculate and award loyalty points and to provide analytics for that merchant. PointVibe does **not** receive full payment card numbers or bank account details.
+*   **Messaging (SendGrid, Twilio):** when a merchant connects their own messaging account, PointVibe transmits message content and the recipient's address to that provider in order to deliver the merchant's notifications (email, SMS, or WhatsApp).
+*   **Wallet passes (Apple, Google):** PointVibe shares the information required to issue and update a customer's loyalty pass.
+
+For data processed through a merchant's loyalty program, the merchant is the data controller and PointVibe acts as a processor on the merchant's behalf. PointVibe does not sell this data and does not use it for any purpose other than operating that merchant's loyalty program. Credentials for connected services are stored encrypted and are never shared.
+
 **Third Party Access**
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
@@ -48,7 +58,7 @@ The Service Provider will retain User Provided data for as long as you use the A
 
 **Account Deletion**
 
-To request account deletion, email us at info@poiintvibe.app. We will delete your account and associated data within 30 days.
+To request account deletion, email us at info@pointvibe.app. We will delete your account and associated data within 30 days.
 
 **Children**
 
@@ -64,7 +74,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-03-23
+This privacy policy is effective as of 2026-03-23 and was last updated on 2026-06-07.
 
 **Your Consent**
 
@@ -73,3 +83,7 @@ By using the Application, you are consenting to the processing of your informati
 **Contact Us**
 
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at info@pointvibe.app.
+
+---
+
+See also: [Terms of Service](./terms.md)
